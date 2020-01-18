@@ -1,0 +1,10 @@
+li:nth-child(2) {
+    color: red;
+}
+.divClass {
+    color:red;
+}
+
+.olClass {
+    color: black;
+}

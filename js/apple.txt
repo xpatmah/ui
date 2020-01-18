@@ -1,0 +1,2 @@
+This is apple file created for the Web
+Application testing
